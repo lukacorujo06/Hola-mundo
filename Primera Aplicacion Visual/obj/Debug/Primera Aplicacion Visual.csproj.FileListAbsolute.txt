@@ -1,0 +1,7 @@
+D:\Luka Corujo\Programas\Git\Primera Aplicacion Visual\Primera Aplicacion Visual\bin\Debug\Primera Aplicacion Visual.exe
+D:\Luka Corujo\Programas\Git\Primera Aplicacion Visual\Primera Aplicacion Visual\bin\Debug\Primera Aplicacion Visual.pdb
+D:\Luka Corujo\Programas\Git\Primera Aplicacion Visual\Primera Aplicacion Visual\obj\Debug\Primera Aplicacion Visual.csprojResolveAssemblyReference.cache
+D:\Luka Corujo\Programas\Git\Primera Aplicacion Visual\Primera Aplicacion Visual\obj\Debug\Primera_Aplicacion_Visual.MainForm.resources
+D:\Luka Corujo\Programas\Git\Primera Aplicacion Visual\Primera Aplicacion Visual\obj\Debug\Primera Aplicacion Visual.csproj.GenerateResource.Cache
+D:\Luka Corujo\Programas\Git\Primera Aplicacion Visual\Primera Aplicacion Visual\obj\Debug\Primera Aplicacion Visual.exe
+D:\Luka Corujo\Programas\Git\Primera Aplicacion Visual\Primera Aplicacion Visual\obj\Debug\Primera Aplicacion Visual.pdb
